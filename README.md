@@ -29,6 +29,8 @@ Source: [Healthcare Provider Fraud Detection Analysis on Kaggle](https://www.kag
 The dataset contains four files covering Medicare beneficiary details, inpatient claims, outpatient claims, and fraud labels at the provider level. Raw data files are not included in this repo due to size limits but can be downloaded directly from Kaggle.
 
 ## Project Structure
+
+```
 Healthcare_Fraud_Detection/
 ├── notebooks/
 │   ├── 01_EDA.ipynb          # Data loading, cleaning, exploratory analysis
@@ -46,6 +48,7 @@ Healthcare_Fraud_Detection/
 │   └── dashboard_shap.csv
 ├── .gitignore
 └── README.md
+```
 ## Machine Learning Results
 
 Two models were trained on provider-level aggregated features:
