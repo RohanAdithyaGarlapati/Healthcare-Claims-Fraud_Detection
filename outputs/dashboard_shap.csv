@@ -1,0 +1,17 @@
+Feature,SHAP_Importance
+total_billed,1.6737849
+claims_per_patient,0.32151136
+avg_hospital_stay,0.28394312
+billed_per_patient,0.24861272
+max_billed,0.20180841
+inpatient_claims,0.19248769
+avg_claim_duration,0.17738587
+inpatient_ratio,0.1641376
+total_claims,0.16349906
+avg_deductible,0.15780522
+avg_patient_age,0.14414194
+patient_death_rate,0.14057699
+avg_billed,0.110843964
+unique_physicians,0.09421167
+outpatient_claims,0.07970743
+unique_patients,0.0743128
